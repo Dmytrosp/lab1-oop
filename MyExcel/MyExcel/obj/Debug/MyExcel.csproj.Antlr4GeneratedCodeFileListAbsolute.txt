@@ -1,0 +1,6 @@
+D:\GitHub\lab1-oop\MyExcel\MyExcel\obj\Debug\LabCalculatorLexer.cs
+D:\GitHub\lab1-oop\MyExcel\MyExcel\obj\Debug\LabCalculatorParser.cs
+D:\GitHub\lab1-oop\MyExcel\MyExcel\obj\Debug\LabCalculatorListener.cs
+D:\GitHub\lab1-oop\MyExcel\MyExcel\obj\Debug\LabCalculatorBaseListener.cs
+D:\GitHub\lab1-oop\MyExcel\MyExcel\obj\Debug\LabCalculatorVisitor.cs
+D:\GitHub\lab1-oop\MyExcel\MyExcel\obj\Debug\LabCalculatorBaseVisitor.cs
